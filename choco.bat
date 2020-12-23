@@ -5,7 +5,7 @@ choco install blender
 choco install cpu-z
 choco install crystaldiskinfo
 choco install discord
-choco install docker
+choco install docker-desktop
 choco install epicgameslauncher
 choco install foxitreader
 choco install gimp
