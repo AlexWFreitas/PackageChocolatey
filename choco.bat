@@ -29,3 +29,4 @@ choco install windirstat
 choco install zoom
 
 :: Will have to install Blitz, League of Legends, Logitech Drivers, GPU Drivers, WSL 2, Ubuntu on WSL, Games, Voicemeeter, Google Drive manually
+:: Also DS4Windows for PS4 Controller support.
