@@ -28,4 +28,4 @@ choco install vscode
 choco install windirstat
 choco install zoom
 
-:: Will have to install Blitz, League of Legends, Logitech Drivers, GPU Drivers, WSL 2, Ubuntu on WSL 
+:: Will have to install Blitz, League of Legends, Logitech Drivers, GPU Drivers, WSL 2, Ubuntu on WSL, Games, Voicemeeter
